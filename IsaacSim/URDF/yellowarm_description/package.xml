@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>yellowarm_description</name>
+  <version>0.0.1</version>
+  <description>yellowarm_description contains URDF files and meshes of mostly 3D printed skyentific robot arm</description>
+  <maintainer email="info@skyentific.com">Skyentific</maintainer>
+  <license>Apache 2.0</license>
+
+  
+  <author>Skyentific</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>xacro</exec_depend>
+</package>
